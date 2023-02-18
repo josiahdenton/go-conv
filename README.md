@@ -1,10 +1,9 @@
 # Go Conv
 
-Converts different measurements, such as 
+Convert different measurements from the terminal, such as 
 - temperature
 - weight
 - length
-as a cli tool.
 
 ## Usage
   - `-from / -f`
